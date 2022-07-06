@@ -20,14 +20,14 @@
       <list>
         <option value="spring-beans.schema" />
         <option value="Tag Library Descriptor" />
-        <option value="Class" />
         <option value="Interface" />
         <option value="Mapper" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
     <file-type-list>
@@ -67,7 +67,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="E:/Maven/com/validatecode/validatecode/1.1.0/validatecode-1.1.0.pom" />
-    <property name="project.structure.last.edited" value="工件" />
+    <property name="project.structure.last.edited" value="项目" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
@@ -226,7 +226,8 @@
       <workItem from="1656999619841" duration="5903000" />
       <workItem from="1657007289958" duration="1677000" />
       <workItem from="1657024924559" duration="20708000" />
-      <workItem from="1657086691260" duration="8132000" />
+      <workItem from="1657086691260" duration="13208000" />
+      <workItem from="1657125564908" duration="1289000" />
     </task>
     <servers />
   </component>

@@ -9,7 +9,8 @@
         <result column="c_name" property="cName"></result>
         <association property="list" javaType="cn.edu.hit.po.CategorySecond">
             <id column="cs_id" property="csId"></id>
-            <result column="cs_name" property=" cName"></result>
+            <result column="cs_name" property="csName"></result>
+           <!-- 不能存放空格-->
             <result column="c_id" property="cId"></result>
         </association>
 
@@ -17,9 +18,9 @@
     </resultMap>
 
     <select id="getCategory" resultMap="cat">
-        SELECT * FROM category left JOIN category_second on category.c_id = category_second.c_id;
+        SELECT * FROM category left JOIN category_second on category.c_id = category_second.c_id
     </select>
-    
+
 
 
 

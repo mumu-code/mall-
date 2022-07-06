@@ -4,6 +4,9 @@ public class CategorySecond {
     private Integer csId;
     private String csName;
     private Integer cId;
+
+
+
     @Override
     public String toString() {
         return "CategorySecond{" +
